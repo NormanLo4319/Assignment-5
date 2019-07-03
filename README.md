@@ -21,9 +21,13 @@ The objective is to build a [Bubble Plot](https://en.wikipedia.org/wiki/Bubble_c
 * Total Number of Drivers Per City
 * City Type (Urban, Suburban, Rural)
 
+![Ride](Images/Pyber_Rider_Sharing_Data.jpeg)
+
 In addition, we produce the following three pie charts:
 
 * % of Total Fares by City Type
 * % of Total Rides by City Type
 * % of Total Drivers by City Type
+
+![Ride](Images/Total_Fares_By_City.jpeg)
 
