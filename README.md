@@ -1,4 +1,4 @@
-# MatPlotly Challenge
+# MatPlotLib Challenge
 The power of Plots
 
 ## Background
