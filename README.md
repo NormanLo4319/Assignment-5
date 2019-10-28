@@ -41,12 +41,19 @@ As their Chief Data Analysts, we've been given access to the complete data from 
 To do this we are tasked with:
 
 * Creating a scatter plot that shows how the tumor volume changes over time for each treatment.
+
 ![treatments](Pymaceuticals/images/treatments.png)
+
 * Creating a scatter plot that shows how the number of [metastatic](https://en.wikipedia.org/wiki/Metastasis) (cancer spreading) sites changes over time for each treatment.
+
 ![treatments](Pymaceuticals/images/during_treatments.png)
+
 * Creating a scatter plot that shows the number of mice still alive through the course of treatment (Survival Rate)
+
 ![treatments](Pymaceuticals/images/survival.png)
+
 * Creating a bar graph that compares the total % tumor volume change for each drug across the full 45 days.
+
 ![treatments](Pymaceuticals/images/45days.png)
 
 Notes for this project:
